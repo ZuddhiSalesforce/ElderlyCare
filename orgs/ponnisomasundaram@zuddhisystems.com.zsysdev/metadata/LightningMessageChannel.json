@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055h000007LpfIAAS",
+      "createdByName": "Sai Natarajan",
+      "createdDate": "2023-05-23T05:11:49.000Z",
+      "fileName": "messageChannels/MyMessageChannel.messageChannel",
+      "fullName": "MyMessageChannel",
+      "id": "1295h000000PFrRAAW",
+      "lastModifiedById": "0055h000007LpfIAAS",
+      "lastModifiedByName": "Sai Natarajan",
+      "lastModifiedDate": "2023-10-03T09:50:26.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningMessageChannel"
+    },
+    {
+      "createdById": "0055h000007LpfIAAS",
+      "createdByName": "Sai Natarajan",
+      "createdDate": "2023-05-23T05:11:49.000Z",
+      "fileName": "messageChannels/AnotherMessageChannel.messageChannel",
+      "fullName": "AnotherMessageChannel",
+      "id": "1295h000000PFrQAAW",
+      "lastModifiedById": "0055h000007LpfIAAS",
+      "lastModifiedByName": "Sai Natarajan",
+      "lastModifiedDate": "2023-05-23T05:11:49.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningMessageChannel"
+    },
+    {
+      "createdById": "0055h000007LpfIAAS",
+      "createdByName": "Sai Natarajan",
+      "createdDate": "2023-10-17T10:59:02.000Z",
+      "fileName": "messageChannels/RelatedRecordsChannel.messageChannel",
+      "fullName": "RelatedRecordsChannel",
+      "id": "129H1000000KyjLIAS",
+      "lastModifiedById": "0055h000007LpfIAAS",
+      "lastModifiedByName": "Sai Natarajan",
+      "lastModifiedDate": "2023-10-17T10:59:02.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningMessageChannel"
+    }
+  ]
+}
